@@ -1,0 +1,9 @@
+196001LN|Naom Choamsky|Ph.D.|LN1001
+196901CS|Donald Knuth|Ph.D.|cs1001
+195001MA|John Tate|Ph.D.|MA1001
+199001ME|Guangda Li|Ph.D.|ME1001
+199221EL|Gang Chen|Ph.D.|EL1001
+195809PH|Steven Weinberg|Ph.D.|P1001
+1986CH|Walter White|Ph.D.|CH1001
+197207CS|Vaughan Pratt|Ph.D.|cs1001
+196901LN|Jeffrey Malcom|M.S.|LN1001

@@ -1,0 +1,7 @@
+cs1001|computer science|Donald Knuth
+LN1001|Lingustics|Naom Choamsky
+MA1001|Mathematics|John Tate
+P1001|Physics|Steven Weinberg
+CH1001|Chemistry|Walter White
+ME1001|mechanical engineering|Guangda Li
+EL1002|Electrical engineering|Gang Chen

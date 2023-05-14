@@ -1,0 +1,5 @@
+20160072|Anas Mohamad Sobhi|3|3.1|cs1001
+20160015|Ahmad Shabaan|4|3.8|cs1001
+20160188|Omar Wael|4|3.3|MA1001
+20160183|Omar Abed ElFatah|4|3.6|LN1001
+201600178|Omar Salah|4|3.5|P1001
